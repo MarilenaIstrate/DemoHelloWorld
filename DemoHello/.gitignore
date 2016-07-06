@@ -1,0 +1,5 @@
+*.iml
+.idea/*.xml
+.idea/*.html
+.idea/copyright/*.xml
+.idea/scopes/*.xml
